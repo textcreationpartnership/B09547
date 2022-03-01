@@ -1,0 +1,370 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A second proposal by William Morgan His Majesty's cosmographer, for a general sale of Mr. Ogilby's works, to enable him to finish Britannia, with the second part of Asia, and Europe</title>
+            <author>Morgan, William, d. 1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09547</idno>
+            <idno type="OCLC"> 64551395</idno>
+            <idno type="STC">Wing M2758A</idno>
+            <idno type="STC">ESTC R224410</idno>
+            <idno type="EEBO-CITATION">64551395</idno>
+            <idno type="OCLC">ocm 64551395</idno>
+            <idno type="VID">184661</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09547)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184661)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 28670:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A second proposal by William Morgan His Majesty's cosmographer, for a general sale of Mr. Ogilby's works, to enable him to finish Britannia, with the second part of Asia, and Europe</title>
+                  <author>Morgan, William, d. 1690.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1677]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>"By His Majesty's authority under the great seal, &amp;c."</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ogilby, John, 1600-1676. --  Britannia.</term>
+               <term>Booksellers and bookselling --  England --  Early works to 1800.</term>
+               <term>Atlases --  Publishing --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184661:1" rendition="simple:additions"/>
+            <head>A Second PROPOSAL by <hi>William Morgan</hi> His Majeſty's <hi>Coſmographer,</hi> for a general Sale of Mr. <hi>Ogilby</hi>'s WORKS, to Enable him to Finiſh <hi>BRITANNIA,</hi> with the Second Part of <hi>ASIA,</hi> and <hi>E<g ref="char:V">Ʋ</g>ROPE.</hi>
+            </head>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>By His MAJESTY's Authority under the Great Seal,</hi> &amp;c.</p>
+               </body>
+            </floatingText>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS <hi>John Ogilby</hi> Eſq; his Majeſty's <hi>Coſmographer,</hi> with the Approbation and Encouragement of His moſt Gracious Majeſty, His Royal Highneſs, the Lords of the Council, and others of the Nobility; did Undertake the <hi>Actual Survey</hi> of <hi>England,</hi> &amp;c. In Order to the Compiling an <hi>Hiſtorical</hi> and <hi>Geographical</hi> De<g ref="char:EOLhyphen"/>ſcription thereof, under the Title of <hi>BRITANNIA,</hi> conſiſting of Two large Volumes:</p>
+            <p>The Firſt containing one Hundred Whole-Sheet Maps, at the Scale of One Mile in an Inch, plainly Deſcribing the <hi>High-Ways,</hi> and <hi>Cities, Towns, Villages, Churches, Caſtles, Houſes, Parks, Woods, Hills, Mills, Beacons, Rivers, Brooks,</hi> and <hi>Bridges;</hi> with all things elſe obſerveable in the Travelling-part of <hi>England</hi> and <hi>Wales.</hi>
+            </p>
+            <p>The Second, comprehending a <hi>Topographical Deſcription</hi> of the whole Kingdom, with the <hi>County-Maps, Principal Cities,</hi> and other Eminent Places.</p>
+            <p>Alſo the Maps of <hi>London</hi> and <hi>Weſtminſter,</hi> and the Compleat general Map of <hi>England,</hi> &amp;c. In which WORK, at the Expence of 7000 <hi>l.</hi> and upward, Mr. <hi>Ogilby</hi> Proceeded ſo far as to Finiſh the Firſt Volume, and Prepare much for the Remainder, eſpecially the General Map of <hi>England.</hi> Since whoſe Death, <hi>William Morgan</hi> earneſtly deſiring to Finiſh a Work brought ſo near Perfection, did Propoſe to raiſe Mony by the Sale of Mr. <hi>Ogilby</hi>'s Books in a Standing-Lottery; which being Open'd on the Firſt of <hi>May</hi> at <hi>Jo</hi>'s Coffee-Houſe, and Drawn by the 22th of <hi>May,</hi> to the general Satisfaction of the Adventurers. This ſudden Diſpatch cauſed ſome quantity of the Books to come into the Hands of the ſaid <hi>William Morgan;</hi> which, with the Addition of ſome <hi>Bibles,</hi> he is encourag'd once more to ſet to Sale in manner following:</p>
+            <p>Each <hi>Lot</hi> is 20 <hi>s.</hi> and the leaſt <hi>Prize</hi> is 18 <hi>s.</hi> which, whoſoever Draws ſingle, and doth not like, ſhall receive 15 <hi>s.</hi> for it again.</p>
+            <p>The Number of the <hi>Prizes</hi> is 798. The Number of <hi>Blanks</hi> 400. which is Two <hi>Prizes</hi> to One <hi>Blank.</hi>
+            </p>
+            <p>But conſidering the Abatements, Additional <hi>Lots,</hi> and Satisfaction given to thoſe that Draw <hi>Blanks,</hi> as is mentioned in the 2d. 3d. and 4<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h. Propoſal, the Adventurers will have near two and a half to o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>Blank,</hi> and the Prizes of the Books will certainly advance when this Diſpoſal is over, as hath done the <hi>BIBLE,</hi> which being ſold by Mr. <hi>Ogilby</hi> for Thirty Shillings, is now rais'd to Five Pound Ten Shillings; for that none of theſe Books, will ever be Printed again.</p>
+            <p>The Books will be Deliver'd as ſoon as Drawn, at the Office near the <hi>Chancery-Court</hi> in <hi>Weſtminſter-Hall.</hi> And the <hi>Lots</hi> may at any time be ſent for and open'd by the <hi>Adventurers,</hi> and the <hi>Prizes</hi> deliver'd upon return of the <hi>Lots</hi> to the Office.</p>
+            <p>Thoſe that adventur'd 40 <hi>s.</hi> in the laſt Drawing open'd the firſt of <hi>May</hi> at <hi>Jo</hi>'s Coffee-houſe, and drew a Prize under the value, ſhall have the Advantage of the 5 <hi>l.</hi> Propoſal if they adventure 3 <hi>l.</hi> more.</p>
+            <div type="part">
+               <head>THE PROPOSALS.</head>
+               <p n="1">
+                  <hi>I.</hi> He that adventures Twenty Shillings hath his Chance among <hi>798 Prizes,</hi> and may happen to Draw the greateſt Value, <hi>39 l. 8 s.</hi>
+               </p>
+               <p n="2">
+                  <hi>II.</hi> Thoſe that adventure Forty Shillings, and their Fortune be ſuch as to Draw two Blanks, ſhall be preſented with a Book of Forty Shillings: Provided, they Open their <hi>Lots</hi> at the Office</p>
+               <p n="3">
+                  <hi>III.</hi> They that adventure for Five <hi>Lots,</hi> ſhall be Preſented to the Value if they Draw under <hi>5 l.</hi>
+               </p>
+               <p n="4">
+                  <hi>IV.</hi> Such as adventure for Ten <hi>Lots,</hi> ſhall receive one additional <hi>Lot, viz.</hi> Eleven for Ten; or be Preſented to the Value if they Draw under <hi>10 l.</hi>
+               </p>
+            </div>
+            <div type="chart">
+               <head>The Numbers and Value of the PRIZES.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell role="label">
+                           <hi>l.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>s.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>The firſt Prize</cell>
+                        <cell>Containing one Impe<g ref="char:EOLhyphen"/>rial <hi>Africa, America, Japan,</hi> and 2d. <hi>China,</hi> bound in Turkey-lea<g ref="char:EOLhyphen"/>ther and Gilt</cell>
+                        <cell cols="2">26-00</cell>
+                     </row>
+                     <row>
+                        <cell>One <hi>Lot N<hi rend="sup">o</hi>
+                           </hi> 1.</cell>
+                        <cell>One Imperial <hi>Aſia</hi> firſt Volume, and one Im<g ref="char:EOLhyphen"/>perial <hi>China</hi> firſt Vol<g ref="char:EOLhyphen"/>lume, in Quires</cell>
+                        <cell cols="2">08-00</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>One large Map of <hi>London</hi>
+                        </cell>
+                        <cell cols="2">02-10</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>One <hi>Britannia</hi> firſt Vol.</cell>
+                        <cell cols="2">02-00</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>One <hi>Silius Italicus</hi>
+                        </cell>
+                        <cell cols="2">00-18</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell cols="2">39-08</cell>
+                     </row>
+                     <row>
+                        <cell>One <hi>Lot N<hi rend="sup">o</hi>
+                           </hi> 2.</cell>
+                        <cell>Containing one Royal <hi>Africa, America, Aſia</hi> firſt Volume, <hi>China</hi> Compleat, <hi>Japan</hi>
+                        </cell>
+                        <cell cols="2">10-00</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>One large Map of <hi>London</hi>
+                        </cell>
+                        <cell cols="2">02-10</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>One <hi>Britannia</hi> firſt Vol</cell>
+                        <cell cols="2">02-00</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>One <hi>Homer, Virgil,</hi> and <hi>Aeſop.</hi>
+                        </cell>
+                        <cell cols="2">06-00</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>One <hi>Silius Italicus</hi>
+                        </cell>
+                        <cell cols="2">00-18</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell cols="2">21-08</cell>
+                     </row>
+                     <row>
+                        <cell>One <hi>Lot N<hi rend="sup">o</hi>
+                           </hi> 3.</cell>
+                        <cell>Containing one Royal <hi>Africa, America, Aſia</hi> firſt Volume, <hi>China</hi> Compleat, <hi>Japan</hi>
+                        </cell>
+                        <cell cols="2">10-00</cell>
+                     </row>
+                     <row>
+                        <cell>5 <hi>Lots N<hi rend="sup">o</hi>
+                           </hi> 4.</cell>
+                        <cell>Each one large Folio <hi>Bible</hi>
+                        </cell>
+                        <cell cols="2">03-10</cell>
+                     </row>
+                     <row>
+                        <cell>10 <hi>Lots N<hi rend="sup">o</hi>
+                           </hi> 5.</cell>
+                        <cell>Each containing one Royal <hi>China</hi> Compleat and <hi>Japan</hi>
+                        </cell>
+                        <cell cols="2">05-00</cell>
+                     </row>
+                     <row>
+                        <cell>5 <hi>Lots N<hi rend="sup">o</hi>
+                           </hi> 6.</cell>
+                        <cell>Each containing one large Map of <hi>London</hi> &amp; <hi>Britannia</hi> firſt Volume</cell>
+                        <cell cols="2">04-10</cell>
+                     </row>
+                     <row>
+                        <cell>5 <hi>Lots N<hi rend="sup">o</hi>
+                           </hi> 7.</cell>
+                        <cell>Each containing one large Map of <hi>London</hi> and <hi>Japan</hi>
+                        </cell>
+                        <cell cols="2">04-00</cell>
+                     </row>
+                     <row>
+                        <cell>5 <hi>Lots N<hi rend="sup">o</hi>
+                           </hi> 8.</cell>
+                        <cell>Each containing one <hi>China</hi> Compleat</cell>
+                        <cell cols="2">03-10</cell>
+                     </row>
+                     <row>
+                        <cell>100 <hi>Lots N<hi rend="sup">o</hi>
+                           </hi> 9.</cell>
+                        <cell>Each one Large Map of <hi>London,</hi> Paſted, Colour'd, and Roll'd</cell>
+                        <cell cols="2">02-10</cell>
+                     </row>
+                     <row>
+                        <cell>100 <hi>Lots N<hi rend="sup">o</hi>
+                           </hi> 10.</cell>
+                        <cell>Each one Map of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> in Sheets</cell>
+                        <cell cols="2">01-10</cell>
+                     </row>
+                     <row>
+                        <cell>50 <hi>Lots N<hi rend="sup">o</hi>
+                           </hi> 11.</cell>
+                        <cell>Each one Royal <hi>Bri<g ref="char:EOLhyphen"/>tannia</hi> firſt Volume</cell>
+                        <cell cols="2">02-00</cell>
+                     </row>
+                     <row>
+                        <cell>50 <hi>Lots N<hi rend="sup">o</hi>
+                           </hi> 12.</cell>
+                        <cell>Each 100 Maps of the Roads</cell>
+                        <cell cols="2">01-10</cell>
+                     </row>
+                     <row>
+                        <cell>50 <hi>Lots N<hi rend="sup">o</hi>
+                           </hi> 13.</cell>
+                        <cell>Each one Royal <hi>Africa</hi>
+                        </cell>
+                        <cell cols="2">02-00</cell>
+                     </row>
+                     <row>
+                        <cell>50 <hi>Lots N<hi rend="sup">o</hi>
+                           </hi> 14.</cell>
+                        <cell>Each one Royal <hi>America</hi>
+                        </cell>
+                        <cell cols="2">02-00</cell>
+                     </row>
+                     <row>
+                        <cell>50 <hi>Lots N<hi rend="sup">o</hi>
+                           </hi> 15.</cell>
+                        <cell>Each one Royal <hi>Aſia</hi> firſt Volume</cell>
+                        <cell cols="2">01-00</cell>
+                     </row>
+                     <row>
+                        <cell>100 <hi>Lots N<hi rend="sup">o</hi>
+                           </hi> 16.</cell>
+                        <cell>Each one Royal <hi>China</hi> firſt Volume</cell>
+                        <cell cols="2">01-10</cell>
+                     </row>
+                     <row>
+                        <cell>100 <hi>Lots N<hi rend="sup">o</hi>
+                           </hi> 17.</cell>
+                        <cell>Each one Royal <hi>China</hi> Second Volume</cell>
+                        <cell cols="2">02-00</cell>
+                     </row>
+                     <row>
+                        <cell>100 <hi>Lots N<hi rend="sup">o</hi>
+                           </hi> 18.</cell>
+                        <cell>Each one Royal <hi>Japan</hi>
+                        </cell>
+                        <cell cols="2">01-10</cell>
+                     </row>
+                     <row>
+                        <cell>10 <hi>Lots N<hi rend="sup">o</hi>
+                           </hi> 19.</cell>
+                        <cell>Each one Royal <hi>Homer</hi> Compleat</cell>
+                        <cell cols="2">02-00</cell>
+                     </row>
+                     <row>
+                        <cell>5 <hi>Lots N<hi rend="sup">o</hi>
+                           </hi> 20.</cell>
+                        <cell>Each one Royal <hi>Silius Italicus</hi>
+                        </cell>
+                        <cell cols="2">00-18</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Thoſe that pleaſe to Adventure may repair to the Office near the <hi>Chancery-Court</hi> in <hi>Weſtminſter-Hall,</hi> every Day from Nine before, till Three after Noon; or to Mr. <hi>Robert Pask</hi> at the <hi>Stationers Arms</hi> under the North-ſide of the <hi>Royal Exchange.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>
+               <hi>Advertiſement.</hi> At the Office aforeſaid, where the <hi>Lots</hi> are Drawn, and at Mr. <hi>Pask</hi>'s, or at Mr. <hi>Morgan</hi>'s Houſe near the <hi>George Tavern</hi> in <hi>White-Fryers,</hi> beſide the Books and Maps above-mentioned, are Sold ſeveral <hi>Maps</hi> and <hi>Prints. Viz.</hi> a large Sheet-Map of <hi>England</hi> with all the <hi>Roads,</hi> the Price 1 <hi>s.</hi> A Pocket-book of the <hi>Roads,</hi> with the Computed and Meaſur'd Diſtance between each Town and Village, with Remarks of Poſt-Towns, and Markets and Fairs, the price 1 <hi>s.</hi> in Sheets. The large Maps of the <hi>Roads,</hi> deſcribing each <hi>Road</hi> as aboveſaid, price 6 <hi>d.</hi> a Sheet. The Maps of <hi>America</hi> 1 <hi>s. Jamaica</hi> and <hi>Carolina</hi> 9 <hi>d.</hi> each, <hi>Mary-Land</hi> and <hi>Barbadoes</hi> 6 <hi>d.</hi> each. The <hi>Prints</hi> of <hi>Adam</hi> and <hi>Eve,</hi> and <hi>Solomons Temple</hi> 9 <hi>d.</hi> each, the Proſpect of <hi>Jeruſalem</hi> in two Sheets 1 <hi>s.</hi> 6 <hi>d.</hi> the Proſpect of <hi>Edenborough</hi> in two Sheets 1 <hi>s.</hi> 6 <hi>d.</hi> The Ground-Plot and Proſpect of <hi>Canterbury</hi> 1 <hi>s.</hi> the Ground-Plot of <hi>Kings-Lyn</hi> and <hi>Tangier</hi> 6 <hi>d.</hi> each.</p>
+            <p>And in <hi>Hillary Term</hi> will be Publiſhed the Map of <hi>Eſſex</hi> actually Survey'd.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
